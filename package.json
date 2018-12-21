@@ -1,0 +1,29 @@
+{
+  "name": "calypsobronte",
+  "version": "2.0.0",
+  "description": "A personal card for Lina Montaño (@calypso_bronte) inspired by Tierney Cyren (@bitandbang)",
+  "main": "index.js",
+  "bin": {
+    "bitandbang": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calypsobronte/calypsobronte.git"
+  },
+  "author": "Tierney Cyren, Lina Montaño <https://calypsobronte.github.io/>",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/calypsobronte/calypsobronte/issues"
+  },
+  "homepage": "https://github.com/calypsobronte/calypsobronte#readme"
+}
