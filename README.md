@@ -1,3 +1,25 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="30"/> Hey, nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> 
+I'm Lina Montaño (calypsobronte), </br> Backend Developer Python and JavaScript. </br>
+Mentor <a href="https://twitter.com/coderiseorg" target="_blank">@coderiseorg</a> </br>
+Podcaster and Founder in <a href="https://twitter.com/caminodev" target="_blank">@caminodev</a> </br>
+Organizer <a href="https://twitter.com/node_co" target="_blank">@node_co</a> </br>
+<h3>Things I code with</h3>
+<p> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" /> <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" /> 
+  
+  <h3>Where to find me:</h3>
+<p><a href="https://github.com/calypsobronte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/calypsobrone" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/calypsobronte/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+# Contact Page:
+
+- 💻 [ https://unicornio.tech/](https://unicornio.tech/)
+
+
+
+---
+
 My npm card inspired by [bitandbang](https://github.com/bnb/bitandbang)
 
 Ejecutar 
