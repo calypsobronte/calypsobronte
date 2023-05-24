@@ -14,7 +14,7 @@ Organizer <a href="https://twitter.com/node_co" target="_blank">@node_co</a> </b
 
 # Contact Page:
 
-- 💻 [ https://unicornio.tech/](https://unicornio.tech/)
+- 💻 [https://www.linkedin.com/in/calypsobronte/]([https://unicornio.tech/](https://www.linkedin.com/in/calypsobronte/))
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=calypsobronte&theme=gotham&show_icons=true" alt="Calypso Brontë" /> </p>
 
