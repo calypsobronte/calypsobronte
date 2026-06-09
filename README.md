@@ -1,22 +1,69 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="30"/> Hey, nice to see you.</h1>
+# 👋 Hey, nice to see you!
 
+I'm **Lina María Montaño Ramírez** (calypsobronte)  
+**Backend Developer** with +5 years of experience | **Google Women Techmakers Ambassador**
 
-<p>Welcome to my page! </br> 
-I'm Lina Montaño (calypsobronte), </br> Backend Developer Python and JavaScript. </br>
-Mentor <a href="https://twitter.com/coderiseorg" target="_blank">@coderiseorg</a> </br>
-Podcaster and Founder in <a href="https://twitter.com/caminodev" target="_blank">@caminodev</a> </br>
-Organizer <a href="https://twitter.com/node_co" target="_blank">@node_co</a> </br>
-<h3>Things I code with</h3>
-<p><img alt="Node.js" src="https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js" /> <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js" /> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" /> <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" /> <img alt="Figma" src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" /> 
-  
-  <h3>Where to find me:</h3>
-<p><a href="https://github.com/calypsobronte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/calypsobrone" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/calypsobronte/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Passionate about building scalable backend systems, clean architecture, and creating impact through technology and community.
 
-# Contact Page:
+---
 
-- 💻 [https://www.linkedin.com/in/calypsobronte/](https://www.linkedin.com/in/calypsobronte/)
+### 🚀 What I do
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=calypsobronte&theme=gotham&show_icons=true" alt="Calypso Brontë" /> </p>
+- Backend Developer with experience at **MercadoLibre** and **Sinapsis**
+- Strong background in **Go, Python, Node.js, TypeScript** and Cloud (AWS, Azure, GCP)
+- Love clean code, Domain-Driven Design (DDD), and building secure, maintainable systems
+- Currently studying **Software Development Technology** at SENA (Remote or Colombia)
+
+---
+
+### 🛠️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌍 Leadership & Community
+
+- **Google Women Techmakers Ambassador**
+- Organizer & Leader at **NodeCo** and **Pioneras Devs**
+- Mentor at **Coderise**
+- Co-founder & Podcaster at **CaminoDev**
+
+---
+
+### 📺 Content Creation
+
+- 🎥 YouTube: [RyukPlay](https://www.youtube.com/@ryukdeathnotetv)
+- 🎮 Twitch: [ryukdeathnotetv](https://www.twitch.tv/ryukdeathnotetv)
+- 🎙️ Podcast: [CaminoDev](https://www.youtube.com/@CaminoDev)
+
+---
+
+### 📍 Find me online
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/calypsobronte/)
+- 🐙 [GitHub](https://github.com/calypsobronte)
+- 🐦 [X / Twitter](https://x.com/calypsobronte)
+- 🌐 [Personal Website / Portfolio](https://calypsobronte.github.io/)
+
+---
+
+### 📊 GitHub Stats
+
+![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=calypsobronte&show_icons=true&theme=radical&hide=contribs)
+
+---
+
+> 💬 *Open to opportunities in Backend Development, Cloud, and tech communities.  
+> Currently looking for SENA paid internships and junior/mid-level positions.*
+
 
 ---
 
